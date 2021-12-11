@@ -1,4 +1,4 @@
-program repeat_until;
+program p10;
 uses crt;
 var
   a, b, i:Integer;
