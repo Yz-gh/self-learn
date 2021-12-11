@@ -1,5 +1,5 @@
 //materi caseof
-program p6;
+program p7;
 uses crt;
 var
   angka: integer;
