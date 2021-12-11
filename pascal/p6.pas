@@ -1,4 +1,4 @@
-program gaji;
+program p6;
 uses crt;
 var
   gol, pdk: string;
