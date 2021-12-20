@@ -1,5 +1,5 @@
 program p15;
-uses crt, math;
+uses crt;
 var
   arrAngka: array of integer;
   i, m: integer;
@@ -45,7 +45,7 @@ begin
   end;
   
   {for i := 0 to high(arrAngka) do writeln(arrAngka[i]);}
-  
+  writeln('========[ Hasil ]========');
   writeln('Angka terbesar :', val('+'));
   writeln('Angka terkecil :', val('-'));
   writeln('Jumlah Data :', val('j'));
